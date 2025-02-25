@@ -40,7 +40,7 @@ import itertools
 nltk.download('stopwords')
 from nltk.lm import MLE
 
-# Functions ###########================-------------------
+# Functions ############================-------------------
 
 
 def NLP_PreProcessing(text_main):
